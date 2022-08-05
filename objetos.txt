@@ -1,0 +1,19 @@
+Classifique dois objetos materiais e dois abstratos. Insira, no mínimo, três métodos e três atributos para cada.
+
+Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.  
+
+Materias -> (Objeto): carro
+            (atributos): cor: Preto, marca: BMW, ano: 2022
+	    (Métodos): andar(), ligar(), freioDeMao()
+
+	    (Objeto): gato
+            (atributos): nome: Tom, cor: Laranja, peso: 20kg
+	    (Métodos): falar(), andar(), comer()
+
+Abstratos -> (Objeto): música
+             (atributos): momeMusica: The Lazy Song, nomeArtista: Bruno Mars, gênero: Pop
+	     (Métodos): tocar(), pausar(), repetir()
+
+	     (Objeto): streaming
+             (atributos): nome: Netflix, tipo: Empresa privada, gênero: Incorporation  
+	     (Métodos): AssistirVideo(), PausarVideo(), FecharVideo()
