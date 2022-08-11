@@ -1,0 +1,3 @@
+Abstract Factory: Tem como objetivo fornecer uma interface para a criação de famílias de objetos relacionados ou dependentes sem especificar suas classes concretas. Também é conhecido como Kit.
+
+Deve ser aplicado quando se deseja isolar a aplicação da implementação da classe concreta, que poderia ser um componente e ou framework específico no qual a aplicação conheceria apenas uma interface e a implementação concreta seria conhecida apenas em tempo de execução ou compilação. 
